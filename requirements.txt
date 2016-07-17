@@ -1,0 +1,4 @@
+sqlalchemy
+flask
+flask-sqlalchemy
+flask-uploads
